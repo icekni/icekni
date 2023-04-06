@@ -1,3 +1,5 @@
 ### Josso Cédric
 
-Développeur Web FullStack Junior, en recherche d'opportunités professionnelles en géion Grand Est, Hauts de France, ou Normandie.
+Développeur Web FullStack : PHP (Symfony), JS (React), Prestashop
+C# : WPF, ASP.Net, Xamarin Forms
+Mainframe : Cobol, DB2, CICS
